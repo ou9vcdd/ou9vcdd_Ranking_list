@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-08 09:00 | 2026-W45 | #6 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 188,790 | +2,796 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-07 17:20 | 2026-W45 | #5 [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br><sub>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</sub> | 49,830 | +6,900 | CSS | [ou9vcdd/hallmark](https://github.com/ou9vcdd/hallmark) |
 | 2026-11-03 09:00 | 2026-W45 | #6 [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 41,932 | +9,770 | TypeScript | [ou9vcdd/t3code](https://github.com/ou9vcdd/t3code) |
 | 2026-11-01 15:00 | 2026-W44 | #7 [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)<br><sub>TradingAgents: Multi-Agents LLM Financial Trading Framework</sub> | 119,148 | +5,483 | Python | [ou9vcdd/TradingAgents](https://github.com/ou9vcdd/TradingAgents) |
