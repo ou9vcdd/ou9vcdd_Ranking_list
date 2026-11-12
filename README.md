@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-12 17:40 | 2026-W46 | #2 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 193,385 | +5,738 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-11 20:10 | 2026-W46 | #9 [zed-industries/zed](https://github.com/zed-industries/zed)<br><sub>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom a…</sub> | 94,737 | +2,262 | Rust | [ou9vcdd/zed](https://github.com/ou9vcdd/zed) |
 | 2026-11-08 09:00 | 2026-W45 | #6 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 188,790 | +2,796 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-07 17:20 | 2026-W45 | #5 [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br><sub>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</sub> | 49,830 | +6,900 | CSS | [ou9vcdd/hallmark](https://github.com/ou9vcdd/hallmark) |
