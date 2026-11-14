@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 10:30 | 2026-W46 | #5 [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)<br><sub>Open-source plugin for designing and reviewing software with agents</sub> | 18,653 | +5,560 | Python | [ou9vcdd/elephant-goldfish-model](https://github.com/ou9vcdd/elephant-goldfish-model) |
 | 2026-11-13 11:40 | 2026-W46 | #3 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Browser automation CLI for AI agents</sub> | 50,380 | +4,601 | Rust | [ou9vcdd/agent-browser](https://github.com/ou9vcdd/agent-browser) |
 | 2026-11-12 17:40 | 2026-W46 | #2 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 193,385 | +5,738 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-11 20:10 | 2026-W46 | #9 [zed-industries/zed](https://github.com/zed-industries/zed)<br><sub>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom a…</sub> | 94,737 | +2,262 | Rust | [ou9vcdd/zed](https://github.com/ou9vcdd/zed) |
