@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-20 12:30 | 2026-W47 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br><sub>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wi…</sub> | 13,710 | +3,468 | TypeScript | [ou9vcdd/plannotator](https://github.com/ou9vcdd/plannotator) |
 | 2026-11-18 12:50 | 2026-W47 | #6 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 196,825 | +4,847 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-16 08:40 | 2026-W47 | #2 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 195,363 | +6,077 | Python | [ou9vcdd/skills](https://github.com/ou9vcdd/skills) |
 | 2026-11-14 10:30 | 2026-W46 | #5 [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)<br><sub>Open-source plugin for designing and reviewing software with agents</sub> | 18,653 | +5,560 | Python | [ou9vcdd/elephant-goldfish-model](https://github.com/ou9vcdd/elephant-goldfish-model) |
