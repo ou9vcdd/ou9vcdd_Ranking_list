@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24 21:10 | 2026-W48 | #4 [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministi…</sub> | 55,936 | +3,015 | Go | [ou9vcdd/open-code-review](https://github.com/ou9vcdd/open-code-review) |
 | 2026-11-23 13:50 | 2026-W48 | #2 [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills op…</sub> | 12,004 | +2,683 | TypeScript | [ou9vcdd/stitch-skills](https://github.com/ou9vcdd/stitch-skills) |
 | 2026-11-22 21:30 | 2026-W47 | #7 [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)<br><sub>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars…</sub> | 7,718 | +3,113 | Python | [ou9vcdd/claude-trading-skills](https://github.com/ou9vcdd/claude-trading-skills) |
 | 2026-11-20 12:30 | 2026-W47 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br><sub>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wi…</sub> | 13,710 | +3,468 | TypeScript | [ou9vcdd/plannotator](https://github.com/ou9vcdd/plannotator) |
